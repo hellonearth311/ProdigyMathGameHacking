@@ -151,8 +151,6 @@ All of our hacks are *open-source*, and only located under our [Github Organizat
   - Our main repo, used as an issue tracker, things we're working on, documentation, and central hub. You're currently on it.
 - [PHEx](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking/tree/master/PHEx)
   - The Prodigy Hacking Extension, used to inject our modified gamefiles into Prodigy.
-- [Redirector](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking/tree/master/redirector)
-  - The server side! We can modify the game files to expose APIs, add cheat menus, and disable anti-cheat!
    ## What do I do if hacks are down?
 Our hacks <b> may </b> be down at any moment. If they are, keep in mind collaborators will try and fix this ASAP.
 Staff will change the title of README.md to "Hacks are down" if this happens. If hacks are not working and you have tried everything to get them to work, but there is no "Hacks are down" notice, contact a collaborator.
